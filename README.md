@@ -1,2 +1,1 @@
-# McDonaldFigma
- html +bootstrap
+# McDonaldfigma
